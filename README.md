@@ -35,20 +35,15 @@ OpenCV, NumPy, Pandas, Scikit-learn, Tkinter (GUI), Multi-threading
 
 ---
 
+### Achievements
+
+- **World Finalist:** MIT Global AI Hackathon (Massachusetts Institute of Technology, 2025)
+- **Winner (Open Track):** Code of The Phoenix Hackathon (IIIT Naya Raipur, 2025)
+- **Merit Holder:** Indian Olympiad Qualifier in Mathematics (2021)
+
+---
+
 ### Featured Projects
-
-**DupliGone | High-Performance Image Deduplication**
-*Tech Stack: Python, FastAPI, MongoDB, Redis, Celery, Azure, OpenCV*
-- Engineered a backend capable of processing and clustering 1,000+ images per batch for duplicate detection.
-- Implemented asynchronous task queues using Redis and Celery to handle heavy computational loads without blocking the main thread.
-- Integrated Perceptual Hashing and DBSCAN/K-Means clustering to achieve 97% identification accuracy.
-- Utilized Azure Blob Storage for secure, scalable cloud data management.
-
-**Car Dashboard Simulator & Physics Engine**
-*Tech Stack: Python, Tkinter, Multi-threading*
-- Developed a custom physics engine during an internship at ARAI to simulate vehicle dynamics (acceleration, braking, RPM).
-- Designed the system using rigorous OOP patterns and multi-threading to ensure real-time data processing and synchronization.
-- Built a modular GUI to visualize backend logic and handle user inputs with low latency.
 
 **Disaster Management Platform**
 *Tech Stack: React.js, Node.js, MongoDB, Socket.io, Python*
@@ -56,13 +51,11 @@ OpenCV, NumPy, Pandas, Scikit-learn, Tkinter (GUI), Multi-threading
 - Architected the backend to handle live geolocation tracking and instant communication using Socket.io.
 - Optimized database queries to ensure rapid data retrieval during high-traffic simulations.
 
----
-
-### Achievements
-
-- **World Finalist:** MIT Global AI Hackathon (Massachusetts Institute of Technology, 2025)
-- **Winner (Open Track):** Code of The Phoenix Hackathon (IIIT Naya Raipur, 2025)
-- **Merit Holder:** Indian Olympiad Qualifier in Mathematics (2021)
+**Car Dashboard Simulator & Physics Engine**
+*Tech Stack: Python, Tkinter, Multi-threading*
+- Developed a custom physics engine during an internship at ARAI to simulate vehicle dynamics (acceleration, braking, RPM).
+- Designed the system using rigorous OOP patterns and multi-threading to ensure real-time data processing and synchronization.
+- Built a modular GUI to visualize backend logic and handle user inputs with low latency.
 
 ---
 
