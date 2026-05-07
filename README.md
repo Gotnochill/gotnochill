@@ -7,9 +7,7 @@
 
 ### About Me
 
-I am a Computer Science undergraduate at the Kalinga Institute of Industrial Technology (KIIT), graduating in 2027. My engineering focus lies in building scalable backend architectures, optimizing system performance, and developing multi-threaded applications.
-
-I have experience designing custom physics engines, high-throughput image processing pipelines, and real-time coordination platforms. I am particularly interested in low-level system design, concurrency, and distributed systems.
+I like distributed systems and servers.
 
 - **Current Focus:** Advanced Data Structures, Operating Systems, and Distributed Backend Architecture.
 - **Experience:** SDE Intern at Automotive Research Association of India (ARAI).
@@ -37,6 +35,9 @@ OpenCV, NumPy, Pandas, Scikit-learn, Tkinter (GUI), Multi-threading
 
 ### Achievements
 
+- **OpenAI Codex Hackathon:** Was among the top 120 selected for the event, worked on context decay of LLMs.
+- **YC Startup School:** Was among the few selected for the event. Pretty good event, learnt a lot of non-technical things.
+- **Build Haus:** Was among the top 125 selected, worked on MCP, used Rust (was difficult and had to navigate through issues)
 - **World Finalist:** MIT Global AI Hackathon (Massachusetts Institute of Technology, 2025)
 - **Winner (Open Track):** Code of The Phoenix Hackathon (IIIT Naya Raipur, 2025)
 - **Merit Holder:** Indian Olympiad Qualifier in Mathematics (2021)
