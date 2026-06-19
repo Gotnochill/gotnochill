@@ -17,16 +17,16 @@ I like distributed systems and servers.
 ### Technical Skills
 
 **Languages**
-C++, Python, Java, C, JavaScript, SQL
+Go, C++, Python, Java, C, JavaScript, SQL
 
 **Backend & Frameworks**
 FastAPI, Node.js, Express.js, Mongoose, Socket.io
 
 **Databases & Caching**
-MongoDB, Redis, Azure Blob Storage
+MongoDB, Redis, Azure, DynamoDB, PostgreSQL
 
 **Tools & DevOps**
-Docker, Git, Linux, Celery, Postman
+Docker, Git, Linux, Celery, Postman, K8s
 
 **Libraries & domains**
 OpenCV, NumPy, Pandas, Scikit-learn, Tkinter (GUI), Multi-threading
@@ -45,6 +45,13 @@ OpenCV, NumPy, Pandas, Scikit-learn, Tkinter (GUI), Multi-threading
 ---
 
 ### Featured Projects
+
+**Redis AOF Persistence**
+*Tech Stack: C, Makefile, Bash*
+- Built a shared memory architecture for sys calls in Redis AOF (write() and fsync()).
+- Batch processing of requests in the Submission queue, for appendfsync.
+- Used the submission/completion queue under a shared ring buffer.
+- Achieved an increment in throughput for processing requests and executing system calls by reducing context switch overhead.
 
 **Disaster Management Platform**
 *Tech Stack: React.js, Node.js, MongoDB, Socket.io, Python*
