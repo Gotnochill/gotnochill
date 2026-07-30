@@ -35,6 +35,7 @@ OpenCV, NumPy, Pandas, Scikit-learn, Tkinter (GUI), Multi-threading
 
 ### Achievements
 
+- ** Knight, LeetCode:** 1878; Global top 5%
 - **OpenAI Codex Hackathon:** Was among the top 120 selected for the event, worked on context decay of LLMs.
 - **YC Startup School:** Was among the few selected for the event. Pretty good event, learnt a lot of non-technical things.
 - **Build Haus:** Was among the top 125 selected, worked on MCP, used Rust (was difficult and had to navigate through issues)
